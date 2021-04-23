@@ -1,2 +1,9 @@
+
 a) Actualizo mi repositorio haciendo un pull del repositorio al que hice FORK.
 b) Alfa puede actualizar su FORK al de Gamma realizando un pull del repositorio local de Gamma.
+=======
+Nombres y Apellidos:
+Alfa: Cristian Fumacoo
+Beta: Franco Acquisto
+Gamma: Miguel Parral
+
